@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "AFK-BOT",
     "password": "",
     "type": "offline"
   },
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "AFK BOT",
-        "AFK BOT",
-        "AFK BOT"
+        "Im js a bot, so dont worry bout me",
+        "Im keeping this server running, so i get dibs on the dragon egg",
+        "Aph's a loser"
       ]
     },
     "chat-log": true,
